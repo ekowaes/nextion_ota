@@ -1,1 +1,1 @@
-6.0.0;hmiotadeneme.tft
+7.0.0;hmiotadeneme.tft
